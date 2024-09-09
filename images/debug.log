@@ -1,0 +1,64 @@
+[0524/115332.740:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0524/202317.197:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0524/202318.025:ERROR:browser_gpu_channel_host_factory.cc(139)] Failed to launch GPU process.
+[1001/233017.897:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[1002/065143.816:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[0419/180921.358:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0419/180926.368:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0419/181512.657:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[0420/200745.480:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0420/215930.483:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0420/220019.484:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0420/221110.960:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0421/021038.988:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0421/021039.103:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0421/021039.377:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0421/114951.523:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0421/150421.473:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0421/150429.522:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0421/163408.471:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0421/163416.507:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0421/192339.509:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0421/222023.527:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0421/233939.201:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0421/234418.062:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0422/120125.250:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0422/152054.360:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0422/152058.005:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0422/152100.486:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0422/222345.439:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0422/222351.639:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0422/222357.412:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0422/222405.566:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0422/222409.166:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0422/222419.715:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0422/222423.580:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0422/222432.632:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0422/222533.075:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0422/230100.779:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0422/230109.800:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0422/234701.239:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[0423/024536.689:ERROR:browser_gpu_channel_host_factory.cc(139)] Failed to launch GPU process.
+[0425/104618.890:WARNING:backend_impl.cc(1843)] Destroying invalid entry.
+[0425/104712.339:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0425/104712.782:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0501/145626.789:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0502/095810.552:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0502/111918.937:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0502/111918.969:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0502/133452.036:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0502/133457.101:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0502/133502.110:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0502/133507.118:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0502/133512.125:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0502/133517.141:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0502/133522.149:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0502/133527.165:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0502/133529.173:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0502/183253.073:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0502/183253.146:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0502/183253.294:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0502/185411.826:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
