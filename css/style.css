@@ -742,6 +742,13 @@ h2 a.navbar-brand i {
 	}
 }
 
+@media screen and (max-width:768px) {
+	.social-iconsv2{
+		align-items: center;
+		justify-content: center;
+	}
+}
+
 @media screen and (max-width: 736px) {
 	.slider-info {
 		width: 547px;
