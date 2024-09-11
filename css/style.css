@@ -177,9 +177,6 @@ a.navbar-brand i {
 	padding-left: 100px;;
 	text-align: center;
 }
-.person{
-	padding-left:50px;
-}
 person-1{
 	padding-left:50px;
 }
@@ -254,6 +251,12 @@ footer {
 
 .fv3-contact {
 	padding: 0.5rem 1rem;
+}
+
+ul.social-iconsv2 {
+	display: flex;
+	align-items: flex-end;
+	gap:8
 }
 
 ul.social-iconsv2 li {
@@ -504,6 +507,10 @@ h4.sec-title1 {
 	text-align: center;
 	box-shadow: 7px 4px 5px rgba(0, 0, 0, 0.37);
 	border-radius: 50%;
+}
+.aspect-square{
+	aspect-ratio: 1;
+	max-width: 110px;
 }
 
 .agileits-services-grids p {
